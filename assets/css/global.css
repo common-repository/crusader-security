@@ -1,0 +1,42 @@
+.wpc-notice {
+    margin: 4px 0 10px 0;
+}
+.wpc-notice .uk-button {
+    -webkit-appearance: none;
+    margin: 0;
+    overflow: visible;
+    font: inherit;
+    text-transform: none;
+    display: inline-block;
+    box-sizing: border-box;
+    background: #f7f7f7;
+    vertical-align: middle;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,.2);
+    background-origin: border-box;
+    border-radius: 4px;
+}
+.wpc-notice .uk-button-primary {
+    background-color: #009dd8;
+    color: #fff;
+    background-image: linear-gradient(to bottom,#00b4f5,#008dc5);
+    border-color: rgba(0,0,0,.2);
+    border-bottom-color: rgba(0,0,0,.4);
+    text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+}
+.wpc-notice .uk-button-mini {
+    min-height: 20px;
+    padding: 0 6px;
+    line-height: 18px;
+    font-size: 11px;
+    margin-top: 6px;
+}
+.wpc-notice h3{
+    margin: 8px 0 8px 0;
+}
+.wpc-notice h3 img{
+    vertical-align: middle;
+    width: 25px;
+    height: 25px;
+}
